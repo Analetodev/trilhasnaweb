@@ -1,3 +1,2 @@
 # trilhasnaweb
-projeto trilhas na web 
-Analeto 
+projeto trilhas na web  
